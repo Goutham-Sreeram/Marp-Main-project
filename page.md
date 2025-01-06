@@ -48,6 +48,12 @@ style: |
   .contents li {
     margin-bottom: 25px;
   }
+  img {
+    display: block;
+    margin: 40px auto;
+    max-width: 70%;
+    max-height: 70%;
+}
 ---
 
 # UNIVERSAL CONTEXTUAL<br>SEMANTIC SEARCH<br>(UCSS)
@@ -89,4 +95,20 @@ Nikhil V (21ECE051)
 * Registration for Conference/ Journal etc (If any)
 * References
 
-</div> 
+</div>
+
+---
+
+# Local Search Implementation
+![Local Search](assets/img1.png)
+
+---
+
+# Cloud Search Implementation
+![Cloud Search](assets/img2.png) 
+
+---
+
+# Project Timeline
+![Project Timeline](assets/image.png)
+
